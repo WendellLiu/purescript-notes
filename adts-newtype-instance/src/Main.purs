@@ -1,7 +1,6 @@
 module Main where
 
 import Prelude (class Show, Unit, (<>))
-import Data.Show
 import Effect (Effect)
 import Effect.Console (logShow)
 
